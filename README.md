@@ -232,7 +232,7 @@ so partial orders are never persisted if stock is insufficient.
 
 | Main Menu | Add Customer | Database | Reports |
 |-----------|--------------|---------|---------|
-| ![main-menu](src/Main_menu.png) | ![add-customer](src/Add_Customer.png) | ![Database](src/Database.png) | ![reports](src/reports.png) |
+| ![main-menu](smartmart-sales-inventory/Main_menu.png) | ![add-customer](smartmart-sales-inventory/Add_Customer.png) | ![Database](smartmart-sales-inventory/Database.png) | ![reports](smartmart-sales-inventory/reports.png) |
 
 ---
 
