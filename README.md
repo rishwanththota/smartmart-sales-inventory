@@ -230,7 +230,7 @@ so partial orders are never persisted if stock is insufficient.
 
 > Add screenshots of the running application here before submission.
 
-| Main Menu | Add Customer | Invoice | Reports |
+| Main Menu | Add Customer | Database | Reports |
 |-----------|--------------|---------|---------|
 | ![main-menu](screenshots/main-menu.png) | ![add-customer](screenshots/add-customer.png) | ![invoice](screenshots/invoice.png) | ![reports](screenshots/reports.png) |
 
