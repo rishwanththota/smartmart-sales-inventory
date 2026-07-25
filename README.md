@@ -232,7 +232,7 @@ so partial orders are never persisted if stock is insufficient.
 
 | Main Menu | Add Customer | Database | Reports |
 |-----------|--------------|---------|---------|
-| ![main-menu](screenshots/main-menu.png) | ![add-customer](screenshots/add-customer.png) | ![invoice](screenshots/invoice.png) | ![reports](screenshots/reports.png) |
+| ![main-menu](screenshots/Main_menu.png) | ![add-customer](screenshots/Add_Customer.png) | ![invoice](screenshots/Database.png) | ![reports](screenshots/reports.png) |
 
 ---
 
